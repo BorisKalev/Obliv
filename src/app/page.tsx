@@ -1,5 +1,4 @@
 import { Header } from "@/sections/Header";
-<<<<<<< HEAD
 import { Hero } from "@/sections/Hero";
 import { LogoTicker } from "@/sections/LogoTicker";
 import { ProductShowcase } from "@/sections/ProductShowcase";
@@ -21,8 +20,4 @@ export default function Home() {
       <Footer />
     </>
   );
-=======
-export default function Home() {
-  return <Header />;
->>>>>>> temp-branch
 }
